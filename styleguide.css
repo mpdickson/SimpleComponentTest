@@ -1,0 +1,15 @@
+:root {
+  --heavy-metal-2: #2c2c2c;
+  --white: #ffffff;
+
+  --font-size-m: 16px;
+
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.roboto-medium-heavy-metal-16px {
+  color: var(--heavy-metal-2);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}

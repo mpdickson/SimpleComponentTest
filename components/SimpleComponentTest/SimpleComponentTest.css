@@ -1,0 +1,57 @@
+.file-cloudoutline {
+  height: 12px;
+  margin-bottom: 0;
+  mix-blend-mode: normal;
+  width: 4px;
+}
+.grid-gridround {
+  height: 20px;
+  left: 37px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 20px;
+}
+.group-204 {
+  align-items: center;
+  display: flex;
+  min-width: 88px;
+}
+.group-358 {
+  align-items: center;
+  display: flex;
+  height: 25px;
+  left: 20px;
+  min-width: 225px;
+  position: absolute;
+  top: 21px;
+}
+.overlap-group {
+  background-color: var(--white);
+  height: 66px;
+  margin-top: -1px;
+  position: relative;
+  width: 322px;
+}
+.place {
+  letter-spacing: 0;
+  margin-left: 10px;
+  min-height: 15px;
+  min-width: 127px;
+  mix-blend-mode: normal;
+  width: 127px;
+}
+.rectangle-205 {
+  height: 25px;
+  margin-left: 58px;
+  mix-blend-mode: normal;
+  width: 25px;
+}
+.simple-component-test {
+  align-items: flex-start;
+  display: flex;
+  height: 64px;
+  justify-content: center;
+  min-width: 320px;
+  overflow-x: hidden;
+}
